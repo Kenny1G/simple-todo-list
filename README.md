@@ -1,7 +1,4 @@
-Welcome to Practical JavaScript!
+Simple Todo App
 ============================
 
-This is the finished code for Version 9 of the
-application for Practical JavaScript.
-
-For more details, visit practicaljavascript.net.
+todo list app created using Javascript while following the watch and code tutorial
